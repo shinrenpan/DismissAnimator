@@ -48,7 +48,7 @@ override func prepare(for segue: UIStoryboardSegue, sender: Any?)
 
 
 ### 客製化
-照著 [客製化 Animator](#客製化-Animato), [客製化 Segue](#客製化-Segue) 完成後, 使用 [純代碼](#純代碼) 或是 [攔截 Segue](#攔截-Segue) 方式使用.
+照著 [客製化 Animator](#客製化-Animator), [客製化 Segue](#客製化-Segue) 完成後, 使用 [純代碼](#純代碼) 或是 [攔截 Segue](#攔截-Segue) 方式使用.
 
 也可使用 Storyboard 客製化 Segue.
 
